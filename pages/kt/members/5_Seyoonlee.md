@@ -3,7 +3,7 @@
 ## 🥸 인적사항
 
 - name : 이세윤
-- github : [SeyoonLee](https://github.com/Leeseyoon)
+- github : [SeyoonLee](https://github.com/)
 - age : 29
 - blog : 
 - 회사 : KT
