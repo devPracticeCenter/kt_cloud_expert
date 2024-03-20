@@ -1,4 +1,4 @@
-/** @type {import('tailwindcss').Config} */
+/** @type {import('tailwindcss').Config} a*/
 module.exports = {
   content: [
     './app/**/*.{js,ts,jsx,tsx,mdx}',
