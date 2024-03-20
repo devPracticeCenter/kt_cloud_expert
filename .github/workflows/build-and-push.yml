@@ -52,5 +52,6 @@ jobs:
 
       - name: Push Changes
         run: |
+          cd eks-apps
           git pull --rebase
           git push
