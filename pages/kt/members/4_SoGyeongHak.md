@@ -24,7 +24,7 @@ import you
 you.today('happy!')
 ```
 - 쭈깻닭
-히히
+히히!
 
 ```python
 for 재료 in 음식:
