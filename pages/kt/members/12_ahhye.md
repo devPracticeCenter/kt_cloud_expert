@@ -2,7 +2,7 @@
 
 ## ❤️ 인적사항
 
-- name : 조아혜
+- name : 조아혜!
 - github : [likeS2](https://github.com/likeS2)
 - age : 27
 - 회사 : KT
