@@ -7,28 +7,37 @@
 - age : 미상
 - blog : ..
 - 회사 : KT
-- 부서 : Service Tech Lab
+- 부서 : Service Tech Lab / Robot 주행 Tech Project
 
 ## 🥕 좋아하는 것
 
-- ....
+- 요즘은 초콜릿 만들기를 하고 있습니다
+
+    <img src="./imgs/bark.jpg" width="200px" height="300px" title="bark_chocolate" alt="bark_chocolate"></img>
+    <img src="./imgs/almond.jpg" width="400px" height="300px" title="almond" alt="almond"></img>
+    <img src="./imgs/heart.jpg" width="250px" height="300px" title="heart" alt="heart"></img>
+    <img src="./imgs/colored.jpg" width="300px" height="300px" title="colored" alt="bark_chocolate"></img><br/>
+
+<br>
+
+- 귀여운 것 사는것도 좋고
+
+    <img src="./imgs/duck_towel.jpg" width="400px" height="300px" title="duck_towel" alt="duck_towel"></img>
+    <img src="./imgs/leaf_bowl.jpg" width="400px" height="300px" title="leaf_bowl" alt="leaf_bowl"></img><br/>
+    
+- 옆집 고양이도 좋아합니다
+
+    <img src="./imgs/cculung.png" width="400px" height="300px" title="colored" alt="cculung"></img><br/>
 
 ## 🐿 아무말
 
-![profile](https://avatars.githubusercontent.com/u/41275199?v=4)
-> 이건 제 아이콘이에요.
-
-Argo Workflows 오픈소스의 컨트리뷰터로 활동하고 있어요.
-
-![ArgoWorkflows](https://img.shields.io/badge/Argo_Workflows-D9F8F9?style=for-the-badge&logo=Argo&logoColor=E5902D)
+멀티로봇 제어 기능 개발을 하고 있습니다
 
 저는 특히 아래 언어들을 좋아하고 많이 사용해요.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![ShellScript](https://img.shields.io/badge/Shell_Script-6E6B6A?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ```python
 import you
@@ -37,7 +46,3 @@ you.today('happy!')
 ```
 
 ---
-
-## 마크다운 작성에 대한 팁이 필요하다면?
-
-- 참고하기 좋은 문서 : [링크](https://gist.github.com/ihoneymon/652be052a0727ad59601)
