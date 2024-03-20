@@ -21,4 +21,5 @@ import test
 
 ```java
 static test
+Asd
 ```
