@@ -13,10 +13,15 @@
 ```
 
 ------------
-```bash
-npm install 
 ```
-* * *
-***
-*****
-- - -
+docker images
+docker run -it --rm -p 8080:3000 test 
+docker push 
+```
+
+```
+01_yschoi_docker
+docker login -u nyschoi
+kubectl create namespace test01
+apply -f ./k8s/manifest.yaml --namespace test01
+```
