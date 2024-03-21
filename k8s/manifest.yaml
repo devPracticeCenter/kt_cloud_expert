@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-container
-        image: jaeyeonhan/cicd:lastest
+        image: jaeyeonhan/cicd:latest
         ports:
         - containerPort: 3000
 ---
