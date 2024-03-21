@@ -20,9 +20,9 @@
 ![argocd](https://github.com/orgs/devPracticeCenter/repositories)
 
 ```
+docker push nyschoi/cicd-practice:tagname
 docker images
 docker run -it --rm -p 8080:3000 test 
-docker push 
 docker login -u nyschoi
 kubectl create namespace test01
 ```
