@@ -1,6 +1,6 @@
 FROM node:21.7.1 as base
 
-FROM base as builder 
+FROM base as builder
 
 WORKDIR /usr/src/app
 
@@ -9,9 +9,9 @@ RUN npm install
 
 COPY . .
 
-RUN npm run build  
+RUN npm run build
 
-FROM base as production 
+FROM base as production
 
 WORKDIR /usr/src/app
 ENV NODE_ENV=production
