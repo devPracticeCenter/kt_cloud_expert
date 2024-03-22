@@ -1,0 +1,3 @@
+replicaCount : 2
+image : "enesyoon/cicd-practice:latest"
+host : "test09.geunsam2.xyz"
